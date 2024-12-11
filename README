@@ -1,0 +1,35 @@
+Tugas Akhir Mata Kuliah DPA.
+Project Game berbasis Text / ASCIII menggunakan NCURSES dan Elemen Program lainnya.
+
+Game Name : Rocket Rush
+Created : 10 December 2024
+
+Team : R. Revaldo Vabiansyah
+       Raris Anggustianto
+       Senja Arina Salsabilla
+
+Pendahuluan
+  Rocket Rush merupakan sebuah Obstacle-Avoidance game atau game yang menghindari rintangan,
+game ini menggunakan Luar Angkasa sebagai tema yang dimana Rocket menjadi karakter kita dan 
+Meteor yang menjadi rintangannya. Selain itu, game ini juga memiliki Buff dan Poin tambahan
+yang akan membantu kita dalam meraih skor setinggi mungkin. Game seperti ini memang sedikit
+membosankan, maka dari itu kami menyediakan beberapa Music Seru agar game tidak membosankan.
+
+Isi
+  Dalam merancang Game Rocket Rush ini, kami menggunakan banyak basic pemrogramman, seperti
+Looping, Pencabangan, Array, Fungsi, dan elemen dasar pemrogramman lainnya. Dengan  Library
+tambahan seperti "mmsystem" memungkinkan  kami untuk menambahkan audio atau musik yang akan
+membuat game jadi lebih menarik.
+
+Penutup
+  Pengembangan Game Rocket Rush ini untuk hiburan bagi pemain, dan juga sebagai media untuk
+pembelajaran. Besar harapan kami untuk kritik dan saran dari pemain yang nantinya akan jadi
+bahan untuk pengembangan lebih lanjut. Kami ucapkan terima kasih sudah meluangkan waktunya.
+
+
+Information Systems
+Faculty of Mathematics and Natural Science
+University of Lampung
+2024
+
+- revawldo
