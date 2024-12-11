@@ -1,0 +1,5 @@
+Because the program is using NCURSES and MMSYSTEM.H, u have to add -lncurses and -lwinmm when compiling.
+Example:
+  g++ rocketrush.cpp -lncurses -lwinmm -o start
+
+After you compile the file, write down ".\start" or "./start" in the windows terminal. Enjoy the Game ^^
